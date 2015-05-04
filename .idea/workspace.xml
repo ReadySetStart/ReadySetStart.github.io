@@ -50,8 +50,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.023004059" vertical-offset="0" max-vertical-offset="2159">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.78213805" vertical-offset="646" max-vertical-offset="2193">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -152,7 +152,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430771665770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixing margins">
+      <created>1430771777233</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1430771777233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -197,7 +203,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="fixing font" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing font" />
+    <MESSAGE value="fixing margins" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing margins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -222,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023004059" vertical-offset="0" max-vertical-offset="2159">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.78213805" vertical-offset="646" max-vertical-offset="2193">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
           <folding />
         </state>
       </provider>
