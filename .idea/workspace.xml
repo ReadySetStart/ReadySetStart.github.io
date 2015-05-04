@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b59de0e-4fa9-4b0e-9129-ace5c24399a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ReadySetStart.github.io.iws" />
@@ -158,7 +157,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430771777233</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixing margins">
+      <created>1430771886566</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1430771886566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
