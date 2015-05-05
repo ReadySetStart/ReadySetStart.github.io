@@ -5,24 +5,26 @@
     align-items: center;
 }
 img.displayed {
-    display: block;
-    margin-top: 60px;
-    margin-left: auto;
-    margin-right: auto;
+
+    margin-top: 5%;
+    margin-left: 45%;
     width: 100px;
 
 }
+
 .text {
     text-align: center;
 }
 .text h1 {
     font-size: 100px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
     color: #4A4A4A;
 }
 .text p {
     font-size: 35px;
     color: #949494;
+    font-family: 'Open Sans', sans-serif;
 }
 .stats{
 background-color: #F4F4F4;
