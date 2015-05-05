@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b59de0e-4fa9-4b0e-9129-ace5c24399a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mission.html" afterPath="$PROJECT_DIR$/mission.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style-mission.css" afterPath="$PROJECT_DIR$/style-mission.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ReadySetStart.github.io.iws" />
@@ -79,20 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mission.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mission.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mission.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.64" vertical-offset="306" max-vertical-offset="1020">
-              <caret line="41" column="75" selection-start-line="41" selection-start-column="75" selection-end-line="41" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.5577746" vertical-offset="306" max-vertical-offset="1037">
+              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-mission.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style-mission.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style-mission.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13802436" vertical-offset="0" max-vertical-offset="739">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
@@ -453,7 +451,13 @@
       <option name="project" value="LOCAL" />
       <updated>1430795654000</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added nav arrow, but fixed the click area">
+      <created>1430799493356</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1430799493356</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -510,7 +514,8 @@
     <MESSAGE value="added mission" />
     <MESSAGE value="worked on mission" />
     <MESSAGE value="fixed mission font" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed mission font" />
+    <MESSAGE value="added nav arrow, but fixed the click area" />
+    <option name="LAST_COMMIT_MESSAGE" value="added nav arrow, but fixed the click area" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -557,18 +562,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mission.html">
+    <entry file="file://$PROJECT_DIR$/style-mission.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.64" vertical-offset="306" max-vertical-offset="1020">
-          <caret line="41" column="75" selection-start-line="41" selection-start-column="75" selection-end-line="41" selection-end-column="75" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style-mission.css">
+    <entry file="file://$PROJECT_DIR$/mission.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13802436" vertical-offset="0" max-vertical-offset="739">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.5577746" vertical-offset="306" max-vertical-offset="1037">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           <folding />
         </state>
       </provider>
