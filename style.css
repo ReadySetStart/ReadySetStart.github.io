@@ -37,6 +37,9 @@
         font-weight: 100px;
         color: #FF5353;
     }
+    span {
+        color: #FF5353;
+    }
 
     .jumbotron {
         width: 100%;
