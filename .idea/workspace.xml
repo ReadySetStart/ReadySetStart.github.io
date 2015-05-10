@@ -90,8 +90,8 @@
       <file leaf-file-name="mom.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30952382" vertical-offset="646" max-vertical-offset="1717">
-              <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="1717">
+              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -521,7 +521,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431276282472</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="MOM">
+      <created>1431276385412</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1431276385412</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -766,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30952382" vertical-offset="646" max-vertical-offset="1717">
-          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="1717">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
           <folding />
         </state>
       </provider>
