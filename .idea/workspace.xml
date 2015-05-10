@@ -90,8 +90,8 @@
       <file leaf-file-name="mom.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6904762" vertical-offset="1003" max-vertical-offset="1717">
-              <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0952381" vertical-offset="1003" max-vertical-offset="1717">
+              <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -533,7 +533,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431276776164</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="MOM">
+      <created>1431277032997</created>
+      <option name="number" value="00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1431277032997</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -778,8 +784,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6904762" vertical-offset="1003" max-vertical-offset="1717">
-          <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0952381" vertical-offset="1003" max-vertical-offset="1717">
+          <caret line="63" column="58" selection-start-line="63" selection-start-column="58" selection-end-line="63" selection-end-column="58" />
           <folding />
         </state>
       </provider>
