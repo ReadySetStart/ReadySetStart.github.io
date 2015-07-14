@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b59de0e-4fa9-4b0e-9129-ace5c24399a4" name="Default" comment="MOM">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Thumbs.db" afterPath="$PROJECT_DIR$/img/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/landing-page.css" afterPath="$PROJECT_DIR$/css/landing-page.css" />
     </list>
     <ignored path="ReadySetStart.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4857143" vertical-offset="391" max-vertical-offset="4794">
-              <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3468" max-vertical-offset="5168">
+              <caret line="204" column="64" selection-start-line="204" selection-start-column="64" selection-end-line="204" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -666,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4857143" vertical-offset="391" max-vertical-offset="4794">
-          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3468" max-vertical-offset="5168">
+          <caret line="204" column="64" selection-start-line="204" selection-start-column="64" selection-end-line="204" selection-end-column="64" />
           <folding />
         </state>
       </provider>
